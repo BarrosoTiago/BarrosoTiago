@@ -1,122 +1,21 @@
- # **[👨‍🎓 💻 Tiago Barroso(`Student`)**
- ## Olá, mundo!
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamplemEwZHkwdW9saWdiam1uMDNrcHd0Mno3cXV0MGp2Ymo1eXExciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" alt="Cyberpunk Terminal Interface Banner"/>
+</p>
 
-- 🌱 I’m currently learning python and embedded systems.
-- 💬 Ask me about network.
-- 📫 barroso.tiago@escolar.ifrn.edu.br for educational purposes.
+<pre align="center">
+                                                                                                                                                      ,---,  
+ ______     ______     __    __           __   __   __     __   __     _____     ______       
+/\  == \   /\  ___\   /\ "-./  \         /\ \ / /  /\ \   /\ "-.\ \   /\  __-.  /\  __ \      
+\ \  __<   \ \  __\   \ \ \-./\ \        \ \ \'/   \ \ \  \ \ \-.  \  \ \ \/\ \ \ \ \/\ \     
+ \ \_____\  \ \_____\  \ \_\ \ \_\        \ \__|    \ \_\  \ \_\\"\_\  \ \____-  \ \_____\    
+  \/_____/   \/_____/   \/_/  \/_/         \/_/      \/_/   \/_/ \/_/   \/____/   \/_____/    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+</pre>
 
----
+<h3 align="center">Tiago Barroso</h3>
+<p align="center">Cursando Sistemas para Internet no IFRN.</p>
 
->### 💻 Languages and Technologies useds
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Cmake" 
-    title="Cmake"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-
-
-<br/>
-<br/>
-<br/>
-
-
-> ### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BarrosoTiago&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
-  />
-
+<p align="center">
+     <a href="https://www.linkedin.com/in/tiago-barroso-faustino-de-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+     <a href="mailto:tiagobarrosofo2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF00E4?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
