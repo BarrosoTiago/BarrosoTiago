@@ -1,4 +1,4 @@
-# Tiago Barroso ![Static Badge](https://img.shields.io/badge/%20-Fulltstack-%232b0d4a?style=for-the-badge&logo=dev.to&logoColor=black&logoSize=auto&labelColor=white)
+# Tiago Barroso ![Static Badge](https://img.shields.io/badge/%20-Fulltstack-%232b0d4a?style=for-the-badge&logo=dev.to&logoColor=black&logoSize=auto&labelColor=white) 
 
 <details>
 
@@ -12,12 +12,34 @@
 
 
 
+
+
 ![Header Animado](https://capsule-render.vercel.app/api?type=venom&height=170&color=2c0d4a&text=README&reversal=false&fontColor=FFFFFF&fontAlign=24&animation=fadeIn&fontSize=100)
 
 
+
+
+
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarrosoTiago&theme=nord)
+
+```
+
+█▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█
+█▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█
+
+▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░
+▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░   
+▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░
+▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
+░░░░▄▄███▄▄░░░░░█████░
+```
+
 <details>
 
-  <summary> Tecnologias Usadas</summary>
+  <summary>🔹Linguagens Usadas</summary>
 
   ![Static Badge](https://img.shields.io/badge/%20-%23f7df25?style=for-the-badge&logo=Javascript&logoColor=black&logoSize=auto&labelColor=yellow)
   ![Static Badge](https://img.shields.io/badge/%20-%2366dafa?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&labelColor=%235fbfd9)
@@ -32,9 +54,24 @@
 
 
 
+<details>
+  
+  <summary>🔹Tecnologias Usadas</summary>
+  
+</details>
+
+<details>
+  
+  <summary>🔹E mais...</summary>
+
+  > Gosto de aprender novas habilidades e temas durante meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
+  > Pretendo desenvolver projetos que solucionem problemas do dia a dia, para mim e para outras pessoas.  
+  > Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarrosoTiago&theme=nord)
+</details>
+
+
 
 
 <p align="center">
