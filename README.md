@@ -1,14 +1,20 @@
 # Tiago Barroso ![Static Badge](https://img.shields.io/badge/%20-Fulltstack-%232b0d4a?style=for-the-badge&logo=dev.to&logoColor=black&logoSize=auto&labelColor=white) 
 
+
+
+
+
 <details>
 
-  <summary>...</summary>
-
+  <summary>...</summary> 
+  
+  ![Static Badge](https://img.shields.io/badge/Oportunidades-Dispon%C3%ADvel-%23%23249e45?style=for-the-badge&labelColor=%231a3621)
   > - *<p>Cursando Sistemas para Internet no IFRN.</p>*
   > - *<p>Formado técnico em Redes de Computadores pela UFRN</p>*
   > - *<p>Desenvolvedor de sistemas com objetivos educacionais.</p>*
   
 </details>
+
 
 
 
@@ -26,7 +32,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarrosoTiago&theme=nord)
 
 ```
-
 █▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█
 █▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█
 
@@ -71,10 +76,16 @@
 
 </details>
 
+<br>
+<br>
 
+<p>
+     <a href="https://www.linkedin.com/in/tiago-barroso-faustino-de-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%23086cc9?style=for-the-badge&logo=LinkedIn&labelColor=%23086cc9"></a>
+     <a href="mailto:tiagobarrosofo2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23eb493b?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=%23eb493b"></a>
+</p>
 
+<p align="left"> 
 
-<p align="center">
-     <a href="https://www.linkedin.com/in/tiago-barroso-faustino-de-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-     <a href="mailto:tiagobarrosofo2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF00E4?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  ![](https://readme-typing-svg.herokuapp.com?lines=Até+mais.&font=Fira+Code&size=30&color=FFFFFF&center=false)
+
 </p>
