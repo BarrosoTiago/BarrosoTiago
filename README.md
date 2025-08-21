@@ -42,6 +42,8 @@
 ░░░░▄▄███▄▄░░░░░█████░
 ```
 
+- Pesquisando sobre *(Computação Forense)* no momento.
+
 <details>
 
   <summary>🔹Linguagens Usadas</summary>
@@ -83,6 +85,9 @@
      <a href="https://www.linkedin.com/in/tiago-barroso-faustino-de-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%23086cc9?style=for-the-badge&logo=LinkedIn&labelColor=%23086cc9"></a>
      <a href="mailto:tiagobarrosofo2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23eb493b?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=%23eb493b"></a>
 </p>
+
+<br>
+<br>
 
 <p align="left"> 
 
