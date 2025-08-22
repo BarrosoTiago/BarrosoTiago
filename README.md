@@ -44,6 +44,8 @@
 
 - Pesquisando sobre *(Computação Forense)* no momento.
 
+![](https://visitor-badge.glitch.me/badge?page_id=BarrosoTiago)
+
 <details>
 
   <summary>🔹Linguagens Usadas</summary>
@@ -71,10 +73,9 @@
   
   <summary>🔹E mais...</summary>
 
-  > Gosto de aprender novas habilidades e temas durante meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
+  > Gosto de aprender novas habilidades e sobre novos assuntos durante meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
   > Pretendo desenvolver projetos que solucionem problemas do dia a dia, para mim e para outras pessoas.  
   > Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
-
 
 </details>
 
@@ -91,6 +92,6 @@
 
 <p align="left"> 
 
-  ![](https://readme-typing-svg.herokuapp.com?lines=Até+mais.&font=Fira+Code&size=30&color=FFFFFF&center=false)
-
+  ![](https://readme-typing-svg.herokuapp.com?lines=É+impossível+para+o+homem+aprender+aquilo+que+ele+acha+que+já+sabe.+-+Epicteto&font=Fira+Code&size=30&color=FFFFFF&center=false&speed=100&width=1800)
+  
 </p>
