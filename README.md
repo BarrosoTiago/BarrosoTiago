@@ -66,7 +66,12 @@
 <details>
   
   <summary>🔹Tecnologias Usadas</summary>
-  
+
+  - Figma
+  - Photoshop
+  - VsCode
+  - Gemini 2.5 Pro
+    
 </details>
 
 <details>
