@@ -42,7 +42,7 @@
 ░░░░▄▄███▄▄░░░░░█████░
 ```
 
-- Pesquisando sobre *(Computação Forense)* no momento.
+> Estou Pesquisando Sobre: **Computação Forense** no momento.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BarrosoTiago)
 
