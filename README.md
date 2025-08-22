@@ -50,6 +50,8 @@
 
   <summary>🔹Linguagens Usadas</summary>
 
+  <br>
+  
   ![Static Badge](https://img.shields.io/badge/%20-%23f7df25?style=for-the-badge&logo=Javascript&logoColor=black&logoSize=auto&labelColor=yellow)
   ![Static Badge](https://img.shields.io/badge/%20-%2366dafa?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&labelColor=%235fbfd9)
   ![Static Badge](https://img.shields.io/badge/%20-%20%237c16f7?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&labelColor=%235d19b0)
@@ -58,6 +60,8 @@
   ![Static Badge](https://img.shields.io/badge/%20-%237b7fb5?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto&labelColor=%23666994)
   ![Static Badge](https://img.shields.io/badge/%20-%23f53003?style=for-the-badge&logo=Laravel&logoColor=white&logoSize=auto&labelColor=%23d4300b)
 
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrosoTiago&layout=compact&theme=tokyonight)
   
 </details>
 
