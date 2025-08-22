@@ -74,6 +74,8 @@
   
   <summary>🔹Tecnologias Mais Usadas</summary>
 
+  <br>
+  
   - Figma (Prototipagem)
   - Awwwards / Dribbble (Referências de UI/UX)
   - Photoshop / Photopea / Pixlr (Edição de imagens)
@@ -91,8 +93,10 @@
 <details>
   <summary>🔹Complementares</summary>
 
-  - Concluí a qualifcação HTML/CSS pela Rocketseat em 2022.
-  - Concluí a qualificção em UI/UX pela Origamid em 2022.
+  <br>
+  
+  - Concluí a qualifcação *HTML/CSS* pela *Rocketseat* em 2022.
+  - Concluí a qualificção em *UI/UX* pela *Origamid* em 2022.
     
 </details>
 
@@ -100,10 +104,12 @@
   
   <summary>🔹E mais...</summary>
 
-  > Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
-  > Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
-  > Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
-
+  <br>
+  
+  > - Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
+  > - Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
+  > - Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
+  > - Como profissional estou aberto para oportunidades de emprego como estagiário ou júnior.
 </details>
 
 <br>
