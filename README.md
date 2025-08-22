@@ -95,7 +95,7 @@
 
   <br>
   
-  - Concluí a qualifcação *HTML/CSS* pela *Rocketseat* em 2022.
+  - Concluí a qualificação *HTML/CSS* pela *Rocketseat* em 2022.
   - Concluí a qualificção em *UI/UX* pela *Origamid* em 2022.
     
 </details>
