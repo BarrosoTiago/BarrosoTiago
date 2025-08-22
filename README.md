@@ -32,14 +32,14 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarrosoTiago&theme=nord)
 
 ```
-█▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█
-█▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█
-
-▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░
-▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░   
-▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░
-▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
-░░░░▄▄███▄▄░░░░░█████░
+  █▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█                 ____________________________
+  █▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█                         ____________________________
+                                                                      ____________________________
+  ▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░                                                     ____________________________
+  ▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░                                             ____________________________
+  ▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░                                     ____________________________            | Saiba mais sobre mim |
+  ▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░                              _____________________________                             |
+  ░░░░▄▄███▄▄░░░░░█████░                                                                                        V
 ```
 
 > Estou Pesquisando Sobre: **Computação Forense** no momento.
@@ -69,12 +69,27 @@
 
 <details>
   
-  <summary>🔹Tecnologias Usadas</summary>
+  <summary>🔹Tecnologias Mais Usadas</summary>
 
-  - Figma
-  - Photoshop
-  - VsCode
-  - Gemini 2.5 Pro
+  - Figma (Prototipagem)
+  - Awwwards / Dribbble (Referências de UI/UX)
+  - Photoshop / Photopea / Pixlr (Edição de imagens)
+  - Visual Studio Code / Apache NetBeans (Editor de texto)
+  - FontAwesome / Bootstrap Icons (Para icones)
+  - Google Fonts (Para fontes)
+  - Gemini 2.5 Pro / ChatGPT 4.0 (AI para código)
+  - Google Docs (Documentação)
+  - Lucidchart (Diagramas)
+  - Microsoft To Do (Tarefas)
+  - Trello (Kanban)
+    
+</details>
+
+<details>
+  <summary>🔹Complementares</summary>
+
+  - Concluí a qualifcação HTML/CSS pela Rocketseat em 2022.
+  - Concluí a qualificção em UI/UX pela Origamid em 2022.
     
 </details>
 
@@ -82,8 +97,8 @@
   
   <summary>🔹E mais...</summary>
 
-  > Gosto de aprender novas habilidades e sobre novos assuntos durante meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
-  > Pretendo desenvolver projetos que solucionem problemas do dia a dia, para mim e para outras pessoas.  
+  > Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
+  > Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
   > Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
 
 </details>
