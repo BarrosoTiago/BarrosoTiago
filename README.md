@@ -87,17 +87,17 @@
 
   <br>
   
-  - Figma (Prototipagem)
-  - Awwwards / Dribbble (Referências de UI/UX)
-  - Photoshop / Photopea / Pixlr (Edição de imagens)
-  - Visual Studio Code / Apache NetBeans (Editor de texto)
-  - FontAwesome / Bootstrap Icons (Para icones)
-  - Google Fonts (Para fontes)
-  - Gemini 2.5 Pro / ChatGPT 4.0 (AI para código)
-  - Google Docs (Documentação)
-  - Lucidchart (Diagramas)
-  - Microsoft To Do (Tarefas)
-  - Trello (Kanban)
+  - **Figma** (Prototipagem)
+  - **Awwwards** / **Dribbble** (Referências de UI/UX)
+  - **Photoshop** / **Photopea** / **Pixlr** (Edição de imagens)
+  - **Visual Studio Code** / **Apache NetBeans** (Editor de texto)
+  - **FontAwesome** / **Bootstrap Icons** (Para icones)
+  - **Google Fonts** (Para fontes)
+  - **Gemini 2.5 Pro** / **ChatGPT 4.0** (AI para código)
+  - **Google Docs** (Documentação)
+  - **Lucidchart** (Diagramas)
+  - **Microsoft To Do** (Tarefas)
+  - **Trello** (Kanban)
     
 </details>
     </td>
@@ -111,7 +111,7 @@
   <br>
   
   - Concluí a qualificação *HTML/CSS* pela *Rocketseat* em 2022.
-  - Concluí a qualificção em *UI/UX* pela *Origamid* em 2022.
+  - Concluí a qualificação em *UI/UX* pela *Origamid* em 2022.
     
       </details>
     </td>
