@@ -1,4 +1,4 @@
-# Tiago Barroso ![Static Badge](https://img.shields.io/badge/%20-Fulltstack-%232b0d4a?style=for-the-badge&logo=dev.to&logoColor=black&logoSize=auto&labelColor=white) 
+# Tiago Barroso ![Static Badge](https://img.shields.io/badge/%20-Fulltstack-%232b0d4a?style=for-the-badge&logo=dev.to&logoColor=black&logoSize=auto&labelColor=white) ![Profile views](https://komarev.com/ghpvc/?username=BarrosoTiago&style=for-the-badge&label=você_é_o_visitante&color=2b0d4a)
 
 
 
@@ -23,13 +23,14 @@
 ![Header Animado](https://capsule-render.vercel.app/api?type=venom&height=170&color=2c0d4a&text=README&reversal=false&fontColor=FFFFFF&fontAlign=24&animation=fadeIn&fontSize=100)
 
 
-
-
-
-
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarrosoTiago&theme=nord)
+
+<p align="center">
+    <img title="Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=BarrosoTiago&theme=transparent&hide_border=true&short_numbers=true&locale=pt-br&ring=36BCF7F&border_radius=10&stroke=36BCF7FF&currStreakNum=36BCF7FF&sideNums=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&fire=36BCF7F&card_width=1000&card_height=200&bghide_border=false"/>
+</p>
+
+
+
 
 ```
   █▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█       ____________________________
@@ -41,7 +42,11 @@
                              _____________________________                           |
                                                                                      V
 ```
-<img src="https://i.gifer.com/1VB6.gif" width="300" />
+
+
+<img src="https://i.gifer.com/1VB6.gif" width="300" /> 
+
+
 
 > Estou Pesquisando Sobre: **Computação Forense** no momento.
 
@@ -54,7 +59,10 @@
   <summary>🔹Linguagens Mais Usadas</summary>
 
   <br>
-  
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrosoTiago&layout=donut-vertical&theme=tokyonight)
+
+    
   ![Static Badge](https://img.shields.io/badge/%20-%23f7df25?style=for-the-badge&logo=Javascript&logoColor=black&logoSize=auto&labelColor=yellow)
   ![Static Badge](https://img.shields.io/badge/%20-%2366dafa?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&labelColor=%235fbfd9)
   ![Static Badge](https://img.shields.io/badge/%20-%20%237c16f7?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&labelColor=%235d19b0)
@@ -62,9 +70,6 @@
   ![Static Badge](https://img.shields.io/badge/%20-%23092e20?style=for-the-badge&logo=Django&logoColor=white&logoSize=auto&labelColor=%231b4535)
   ![Static Badge](https://img.shields.io/badge/%20-%237b7fb5?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto&labelColor=%23666994)
   ![Static Badge](https://img.shields.io/badge/%20-%23f53003?style=for-the-badge&logo=Laravel&logoColor=white&logoSize=auto&labelColor=%23d4300b)
-
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrosoTiago&layout=compact&theme=tokyonight)
   
 </details>
 
