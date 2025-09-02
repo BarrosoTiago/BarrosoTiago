@@ -33,15 +33,19 @@
 
 
 ```
-  █▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█       ____________________________
-  █▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█                 ____________________________
-                                                        ____________________________
-                                                    ____________________________
-                                           ____________________________
-                                    ____________________________          | Saiba mais sobre mim |
-                             _____________________________                           |
-                                                                                     V
+
+                                              ____________________________
+                                                      ___________________________
+  █▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█                         ____________________________
+  █▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█                                  ____________________________
+                                                                          ____________________________
+                                                                      ____________________________
+                                                             ____________________________
+                                                      ____________________________          | Saiba mais sobre mim |
+                                               _____________________________                           |
+                                                                                                       V
 ```
+
 
 
 <img src="https://i.gifer.com/1VB6.gif" width="300" /> 
@@ -54,7 +58,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BarrosoTiago.BarrosoTiago)
 
-<details>
+<table>
+    <tr>
+      <td>
+        <details>
 
   <summary>🔹Linguagens Mais Usadas</summary>
 
@@ -71,11 +78,10 @@
   ![Static Badge](https://img.shields.io/badge/%20-%237b7fb5?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto&labelColor=%23666994)
   ![Static Badge](https://img.shields.io/badge/%20-%23f53003?style=for-the-badge&logo=Laravel&logoColor=white&logoSize=auto&labelColor=%23d4300b)
   
-</details>
-
-
-
-<details>
+</details> 
+    </td>
+    <td>  
+      <details>
   
   <summary>🔹Tecnologias Mais Usadas</summary>
 
@@ -94,8 +100,12 @@
   - Trello (Kanban)
     
 </details>
-
-<details>
+    </td>
+    </details>
+    </tr>
+    <tr>
+    <td>
+      <details>
   <summary>🔹Complementares</summary>
 
   <br>
@@ -103,19 +113,31 @@
   - Concluí a qualificação *HTML/CSS* pela *Rocketseat* em 2022.
   - Concluí a qualificção em *UI/UX* pela *Origamid* em 2022.
     
-</details>
+      </details>
+    </td>
+    <td>
+    <details>
+      
+      <summary>🔹E mais...</summary>
+    
+      <br>
+      
+      > - Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
+      > - Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
+      > - Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
+      > - Como profissional estou aberto para oportunidades de emprego como estagiário ou júnior.
+    </details>
+    </td>
+    </tr>
+</table>
 
-<details>
-  
-  <summary>🔹E mais...</summary>
 
-  <br>
-  
-  > - Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
-  > - Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
-  > - Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
-  > - Como profissional estou aberto para oportunidades de emprego como estagiário ou júnior.
-</details>
+
+
+
+
+
+
 
 <br>
 <br>
