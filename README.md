@@ -45,7 +45,7 @@
 <br>
 <br>
 
-  ## Informações
+<h2 align="center">Informações</h2>
 
   <br>
 
@@ -54,7 +54,7 @@
   <tr>
     <!-- Coluna esquerda: badges (largura fixa) -->
     <td valign="middle" width="240">
-      <p align="left">
+      <p align="center">
         <img alt="Javascript" src="https://img.shields.io/badge/%20-%23f7df25?style=for-the-badge&logo=Javascript&logoColor=black&labelColor=yellow"><br/>
         <img alt="React" src="https://img.shields.io/badge/%20-%2366dafa?style=for-the-badge&logo=React&logoColor=white&labelColor=%235fbfd9"><br/>
         <img alt="Bootstrap" src="https://img.shields.io/badge/%20-%20%237c16f7?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=%235d19b0"><br/>
