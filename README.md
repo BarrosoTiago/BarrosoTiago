@@ -30,31 +30,25 @@
 </p>
 
 
+<br>
+<br>
 
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="300">
+      <img src="https://i.gifer.com/1VB6.gif" width="300" />
+    </td>
+    <td align="left" valign="middle">
+      <blockquote>
+        Estou Pesquisando Sobre: <b>Computação Forense</b> no momento.<br/>
+        E Trabalhando no Projeto: <b>Genomous</b>.
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-```
+<br clear="left"/>
 
-                                              ____________________________
-                                                      ___________________________
-  █▄▄ █▀▀ █▀▄▀█   █░█ █ █▄░█ █▀▄ █▀█                         ____________________________
-  █▄█ ██▄ █░▀░█   ▀▄▀ █ █░▀█ █▄▀ █▄█                                  ____________________________
-                                                                          ____________________________
-                                                                      ____________________________
-                                                             ____________________________
-                                                      ____________________________          | Saiba mais sobre mim |
-                                               _____________________________                           |
-                                                                                                       V
-```
-
-
-
-<img src="https://i.gifer.com/1VB6.gif" width="300" /> 
-
-
-
-> Estou Pesquisando Sobre: **Computação Forense** no momento.
-
-> E Trabalhando no Projeto: **Genomous**.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BarrosoTiago.BarrosoTiago)
 
