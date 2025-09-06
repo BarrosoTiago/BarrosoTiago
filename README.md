@@ -29,6 +29,52 @@
     <img title="Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=BarrosoTiago&theme=transparent&hide_border=true&short_numbers=true&locale=pt-br&ring=36BCF7F&border_radius=10&stroke=36BCF7FF&currStreakNum=36BCF7FF&sideNums=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&fire=36BCF7F&card_width=1000&card_height=200&bghide_border=false"/>
 </p>
 
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="./assets/Backend Icon (1).gif" width="100"> 
+</p>
+<p align="center">
+
+  ![](https://readme-typing-svg.herokuapp.com?lines=É+impossível+para+o+homem+aprender+aquilo+que+ele+acha+que+já+sabe.+-+Epicteto&font=Fira+Code&size=30&color=FFFFFF&center=true&speed=100&width=1800)
+
+</p>
+
+<br>
+<br>
+
+  ## Informações
+
+  <br>
+
+<!-- Tabela centralizada: badges à esquerda, estatísticas à direita -->
+<table align="center">
+  <tr>
+    <!-- Coluna esquerda: badges (largura fixa) -->
+    <td valign="middle" width="240">
+      <p align="left">
+        <img alt="Javascript" src="https://img.shields.io/badge/%20-%23f7df25?style=for-the-badge&logo=Javascript&logoColor=black&labelColor=yellow"><br/>
+        <img alt="React" src="https://img.shields.io/badge/%20-%2366dafa?style=for-the-badge&logo=React&logoColor=white&labelColor=%235fbfd9"><br/>
+        <img alt="Bootstrap" src="https://img.shields.io/badge/%20-%20%237c16f7?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=%235d19b0"><br/>
+        <img alt="Python" src="https://img.shields.io/badge/%20-%233f76a6?style=for-the-badge&logo=Python&logoColor=white&labelColor=%2337648c"><br/>
+        <img alt="Django" src="https://img.shields.io/badge/%20-%23092e20?style=for-the-badge&logo=Django&logoColor=white&labelColor=%231b4535"><br/>
+        <img alt="PHP" src="https://img.shields.io/badge/%20-%237b7fb5?style=for-the-badge&logo=PHP&logoColor=white&labelColor=%23666994"><br/>
+        <img alt="Laravel" src="https://img.shields.io/badge/%20-%23f53003?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=%23d4300b">
+      </p>
+    </td>
+
+  <td valign="middle" align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarrosoTiago&layout=donut-vertical&theme=tokyonight" width="360" alt="Top languages" />
+
+  </td>
+
+  </tr>
+</table>
+
+
 
 <br>
 <br>
@@ -40,7 +86,9 @@
     </td>
     <td align="left" valign="middle">
       <blockquote>
-        Estou Pesquisando Sobre: <b>Computação Forense</b> no momento.<br/>
+        Estou Pesquisando Sobre: <b>Computação Forense</b> no momento.
+        <br/>
+        <br>
         E Trabalhando no Projeto: <b>Genomous</b>.
       </blockquote>
     </td>
@@ -50,37 +98,17 @@
 <br clear="left"/>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=BarrosoTiago.BarrosoTiago)
-
-<table>
-    <tr>
-      <td>
+  <table align="center">
+      <tr>
+      <td>  
         <details>
-
-  <summary>🔹Linguagens Mais Usadas</summary>
-
-  <br>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrosoTiago&layout=donut-vertical&theme=tokyonight)
-
     
-  ![Static Badge](https://img.shields.io/badge/%20-%23f7df25?style=for-the-badge&logo=Javascript&logoColor=black&logoSize=auto&labelColor=yellow)
-  ![Static Badge](https://img.shields.io/badge/%20-%2366dafa?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&labelColor=%235fbfd9)
-  ![Static Badge](https://img.shields.io/badge/%20-%20%237c16f7?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&labelColor=%235d19b0)
-  ![Static Badge](https://img.shields.io/badge/%20-%233f76a6?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto&labelColor=%2337648c)
-  ![Static Badge](https://img.shields.io/badge/%20-%23092e20?style=for-the-badge&logo=Django&logoColor=white&logoSize=auto&labelColor=%231b4535)
-  ![Static Badge](https://img.shields.io/badge/%20-%237b7fb5?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto&labelColor=%23666994)
-  ![Static Badge](https://img.shields.io/badge/%20-%23f53003?style=for-the-badge&logo=Laravel&logoColor=white&logoSize=auto&labelColor=%23d4300b)
-  
-</details> 
-    </td>
-    <td>  
-      <details>
-  
   <summary>🔹Tecnologias Mais Usadas</summary>
 
   <br>
   
+<img src="./assets/Ai loading model.gif" width="50">
+
   - **Figma** (Prototipagem)
   - **Awwwards** / **Dribbble** (Referências de UI/UX)
   - **Photoshop** / **Photopea** / **Pixlr** (Edição de imagens)
@@ -92,63 +120,45 @@
   - **Lucidchart** (Diagramas)
   - **Microsoft To Do** (Tarefas)
   - **Trello** (Kanban)
-    
-</details>
-    </td>
-    </details>
-    </tr>
-    <tr>
-    <td>
-      <details>
-  <summary>🔹Complementares</summary>
+      
+  </details>
+      </td>
+      <td>
+  <details>
+    <summary>🔹Complementares</summary>
 
   <br>
+
+- Concluí a qualificação *HTML/CSS* pela *Rocketseat* em 2022.
+- Concluí a qualificação em *UI/UX* pela *Origamid* em 2022.
   
-  - Concluí a qualificação *HTML/CSS* pela *Rocketseat* em 2022.
-  - Concluí a qualificação em *UI/UX* pela *Origamid* em 2022.
-    
-      </details>
+  </details>
     </td>
     <td>
-    <details>
-      
-      <summary>🔹E mais...</summary>
+  <details>
     
-      <br>
-      
-      > - Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
-      > - Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
-      > - Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
-      > - Como profissional estou aberto para oportunidades de emprego como estagiário ou júnior.
-    </details>
+    <summary>🔹E mais...</summary>
+  
+    <br>
+    
+    > - Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
+    > - Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
+    > - Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
+    > - Como profissional estou aberto para oportunidades de emprego como estagiário ou júnior.
+  </details>
     </td>
     </tr>
-</table>
-
-
-
-
-
-
+  </table>
 
 
 
 <br>
 <br>
 
-<p align="left"> 
-
-  ![](https://readme-typing-svg.herokuapp.com?lines=É+impossível+para+o+homem+aprender+aquilo+que+ele+acha+que+já+sabe.+-+Epicteto&font=Fira+Code&size=30&color=FFFFFF&center=false&speed=100&width=1800)
-  
-</p>
-
-<br>
-<br>
-
-
-
-Entre em contato comigo em: 
-<p>
+<p align="center">
+  Entre em contato comigo em:
+</p> 
+<p align="center">
      <a href="https://www.linkedin.com/in/tiago-barroso-faustino-de-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%23086cc9?style=for-the-badge&logo=LinkedIn&labelColor=%23086cc9"></a>
      <a href="mailto:tiagobarrosofo2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23eb493b?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=%23eb493b"></a>
 </p>
