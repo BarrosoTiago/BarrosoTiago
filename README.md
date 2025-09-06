@@ -103,11 +103,11 @@
       <td>  
         <details>
     
-  <summary>🔹Tecnologias Mais Usadas</summary>
+  <summary>  <img src="./assets/Gradient Loading.gif" width="14"> 🔹Tecnologias Mais Usadas</summary>
 
   <br>
   
-<img src="./assets/Ai loading model.gif" width="50">
+<img src="./assets/computer animation.gif" width="200">
 
   - **Figma** (Prototipagem)
   - **Awwwards** / **Dribbble** (Referências de UI/UX)
@@ -125,7 +125,7 @@
       </td>
       <td>
   <details>
-    <summary>🔹Complementares</summary>
+    <summary>  <img src="./assets/Gradient Loading.gif" width="14"> 🔹Complementares</summary>
 
   <br>
 
@@ -137,10 +137,10 @@
     <td>
   <details>
     
-    <summary>🔹E mais...</summary>
+    <summary>  <img src="./assets/Gradient Loading.gif" width="14">🔹 E mais...</summary>
   
     <br>
-    
+
     > - Gosto de aprender novas habilidades e aprender sobre novos assuntos durante o meu tempo livre. Admiro a multidisciplinaridade do conhecimento humano, e, por isto, busco sempre seguir esta filosofia!
     > - Pretendo desenvolver projetos que solucionem problemas do dia a dia para mim e para outras pessoas.  
     > - Como estudante de tecnologia da informação, planejo me qualificar constantemente para acompanhar a evolução e contribuir com a ciência e tecnologia, sempre me especializando e buscando conhecimento em outras partes desta disciplina do conhecimento tão vasta!
