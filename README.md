@@ -44,10 +44,23 @@
 
 <br>
 <br>
+<br>
 
-<h2 align="center">Informações</h2>
+<h1 align="center">Projetos</h1>
+<p>
+  <img src="" width="300">
+  <img src="" width="300">
+  <img src="" width="300">
+</p>
 
-  <br>
+<br>
+<br>
+<br>
+
+<h1 align="center">Informações</h1>
+
+<br>
+<br>
 
 <!-- Tabela centralizada: badges à esquerda, estatísticas à direita -->
 <table align="center">
