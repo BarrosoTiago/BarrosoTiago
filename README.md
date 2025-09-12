@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<h1 align="center">Projetos</h1>
+<h1 align="center">— Projetos —</h1>
 <p>
   <img src="" width="300">
   <img src="" width="300">
@@ -57,7 +57,11 @@
 <br>
 <br>
 
-<h1 align="center">Informações</h1>
+<h1 align="center">— Linguagens & Tecnologias —</h1>
+
+<p align="center">
+  <img src="./assets/dev.gif" width="100"> 
+</p>
 
 <br>
 <br>
@@ -87,7 +91,10 @@
   </tr>
 </table>
 
+<br>
+<br>
 
+<h1 align="center">— Informações —</h1>
 
 <br>
 <br>
@@ -102,7 +109,7 @@
         Estou Pesquisando Sobre: <b>Computação Forense</b> no momento.
         <br/>
         <br>
-        E Trabalhando no Projeto: <b>Genomous</b>.
+        E Trabalhando no Projeto: <b>Note Prompt</b>.
       </blockquote>
     </td>
   </tr>
