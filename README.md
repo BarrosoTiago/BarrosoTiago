@@ -64,7 +64,6 @@
 </p>
 
 <br>
-<br>
 
 <!-- Tabela centralizada: badges à esquerda, estatísticas à direita -->
 <table align="center">
@@ -96,7 +95,6 @@
 
 <h1 align="center">— Informações —</h1>
 
-<br>
 <br>
 
 <table align="center">
