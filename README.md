@@ -48,7 +48,7 @@
 
 <h1 align="center">— Projetos —</h1>
 <p>
-  <img src="" width="300">
+  <img src="./assets/potplayprint.png" width="300">
   <img src="" width="300">
   <img src="" width="300">
 </p>
